@@ -157,7 +157,7 @@ input, select, textarea {
 	}
 
 	body, input, select, textarea {
-		ffont-family: "Source Sans Pro", Helvetica, sans-serif;
+		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 1.2rem;
 		font-weight: 500;
 		line-height: 1.65;
